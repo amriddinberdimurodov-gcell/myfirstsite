@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Мой первый сайт</title>
+    <style>
+        body {
+            background: linear-gradient(to bottom right, #a8e063, #56ab2f);
+            font-family: Arial, sans-serif;
+            color: #002b00;
+            text-align: center;
+            margin: 0;
+            padding-top: 150px;
+        }
+        h1 {
+            font-size: 48px;
+        }
+        p {
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Добро пожаловать!</h1>
+    <p>Это мой первый сайт с зелёным природным фоном 🌿</p>
+</body>
+</html>
